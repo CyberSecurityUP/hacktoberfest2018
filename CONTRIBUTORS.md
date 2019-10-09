@@ -2125,3 +2125,9 @@ Place: India<br/>
 About: Computer science student<br/>
 Programming languages: c , cpp, python , ruby , js <br/>
 Email: rupnamaitra100@gmail.com
+
+Name: [Joas Antonio](https://github.com/CyberSecurityUP)
+Place: Brazil
+About: Information Security Professional
+Programming Language: Python
+Email: 29security@protonmail.com
